@@ -100,7 +100,7 @@ website_input.grid(row=1, column=1)
 website_input.focus()
 username_input = Entry(width=40, font=("Courier", 10, "bold"))
 username_input.grid(row=2, column=1, columnspan=2)
-username_input.insert(0, "cschinner7@gmail.com")
+username_input.insert(0, "YOUReMAIL@eMAIL.com")
 generated_password = Entry(width=24, font=("Courier", 10, "bold"))
 generated_password.grid(row=3, column=1)
 
